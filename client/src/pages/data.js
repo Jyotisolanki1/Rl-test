@@ -1,0 +1,16 @@
+export const Products = [
+  { _id: "65e0ca8bc34074f42b05db95", Name: "samsungtv", Price: 14000 },
+  { _id: "65e0d998517b57155d2c8322", Name: "laptop", Price: 50000 },
+  { _id: "65e0d9ba517b57155d2c8324", Name: "Iphone", Price: 150000 },
+  { _id: "65e0d9c6517b57155d2c8326", Name: "shirt", Price: 1500 },
+  { _id: "65e0d9ce517b57155d2c8328", Name: "T-shirt", Price: 1000 },
+  { _id: "65e0db054a4dc38eb32e2703", Name: "Smartphone", Price: 15000 },
+  { _id: "65e0db184a4dc38eb32e2705", Name: "Headphones", Price: 2000 },
+  { _id: "65e0db294a4dc38eb32e2707", Name: "Smartwatch", Price: 1299 },
+  { _id: "65e0db3e4a4dc38eb32e2709", Name: "Camera", Price: 59999 },
+  { _id: "65e0db524a4dc38eb32e270b", Name: "Wireless Earbuds", Price: 3000 },
+  { _id: "65e0db624a4dc38eb32e270d", Name: "Bluetooth Speaker", Price: 1800 },
+  { _id: "65e0db774a4dc38eb32e270f", Name: "Gaming Console", Price: 10000 },
+  { _id: "65e0db804a4dc38eb32e2711", Name: "Fitness Tracker", Price: 10000 },
+  { _id: "65e0db944a4dc38eb32e2713", Name: "4K TV", Price: 70000 },
+];
